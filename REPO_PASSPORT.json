@@ -1,15 +1,6 @@
 {
-  "schema": "WorkspaceOS.RepoPassport.v0.1",
-  "repository": "Rachelmegs/prompt-declaration-language",
+  "repo": "Rachelmegs/prompt-declaration-language",
   "owner": "Rachelmegs",
-  "default_branch": "main",
-  "status": "root_hygiene_draft",
-  "review_date": "2026-05-12",
-  "evidence_fields": [
-    "scope",
-    "files_changed",
-    "validation",
-    "known_limits",
-    "rollback"
-  ]
+  "branch": "main",
+  "review": "2026-05-12"
 }
